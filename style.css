@@ -53,14 +53,14 @@ body{
   line-height:1.4;
 }
 
-.quiz-info{
+.Quiz-info{
   display:flex;
   justify-content:space-between;
   color:#666;
   margin-bottom:10px
 }
 
-.answer-container{
+.answers-container{
   display:flex;
   flex-direction:column;
   gap:10px;
@@ -69,7 +69,7 @@ body{
 }
 
 .answer-btn{
-  background-color:#f8f0e5;
+  background-color:#d4cabc;
   color:#333;
   border:2px solid #eadbc8;
   border-radius:10px;
